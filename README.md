@@ -1,5 +1,5 @@
 # Ruoxi-GIS-portfolio
-this is my portfolio for Advanced GIS course.
+This is my portfolio for Advanced GIS course.
 
 # About me
 My name is Ruoxi Xie, and I'm a second-year Master of Urban Design student. I completed my undergraduate study in Architecture in Shanghai, China. Here at CMU, I have developed an interest in urban design, interaction design, and data-driven urban analysis. 
