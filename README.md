@@ -11,3 +11,5 @@ In this course, I hope to learn more about various tools and their applications 
 
 # Portfolio
 Ruoxi's Advanced GIS course portfolio
+
+Click for my [test map](/testmap.md)
