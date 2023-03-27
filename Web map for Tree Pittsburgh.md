@@ -42,12 +42,7 @@ Santa Fe   #B26B5B
 
 ![color panel](https://user-images.githubusercontent.com/128320071/227805579-e2928316-90a2-48af-815e-f97596ce6d29.png)
 
-
-# Screen shots of base map
-![screenshot1](https://user-images.githubusercontent.com/128320071/227804921-b26ece95-090b-4eb1-959f-4c9a085489ae.png)
-![screenshot2](https://user-images.githubusercontent.com/128320071/227816911-129332f3-0f17-4824-932d-1add0caf8f7c.png)
-![screenshot3](https://user-images.githubusercontent.com/128320071/227816922-3ee3ea31-8020-4e46-aa4b-e0cc34f055e0.png)
-
+The colors are generated from the logo and website of Tree Pittsburgh. The background color is ecru white. The main color is green for showing the parks and green areas within the neighborhood. The cloudy color is generated from the brown trunk, which is used to represent the transportation system on the map. The red color is used to highlight public spaces such as schools and institutions. The blue is originated from the website to represent water in the water.
 
 # Lookup table
 | Feature type | Element type | Stylers |
@@ -63,6 +58,13 @@ Santa Fe   #B26B5B
 |POI/SportsComplex | Geometry | Color: Pesto (#636E2E) |
 |POI/School | Geometry | Color: Santa Fe (#B26B5B) |
 |Water | Geometry | Color: Geyser (#CCD9DB) |
+
+# Screen shots of base map
+![screenshot1](https://user-images.githubusercontent.com/128320071/227804921-b26ece95-090b-4eb1-959f-4c9a085489ae.png)
+![screenshot2](https://user-images.githubusercontent.com/128320071/227816911-129332f3-0f17-4824-932d-1add0caf8f7c.png)
+![screenshot3](https://user-images.githubusercontent.com/128320071/227816922-3ee3ea31-8020-4e46-aa4b-e0cc34f055e0.png)
+
+For the base map, I started with settling down the background color and water with ecru white and geyser. I tested brown for roads and found that it was too dark and might distract users’ attention from green areas, so I changed it to cloudy, with a white stroke to make it fit into the ground. Then I started testing around different colors to represent parks and green areas, fitting into the ground and water. Finally, I decided to use gimblet and pesto for various green areas to make it pop up from the map. Since Tree Pittsburgh also holds various kinds of educational events in the public space such as institutions and schools in the community, I used Santa Fe to show them on the map. There are potential chances of showing different locations of public events of Tree Pittsburgh. 
 
 
 # Link to JSON file
