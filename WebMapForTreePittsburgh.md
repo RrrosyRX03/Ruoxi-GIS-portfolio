@@ -28,6 +28,7 @@ For the final deliverable, the team will **embed the redesigned base map into th
 
 
 # Color Palette
+
 Ecru White #FAFAF1
 
 Cloudy     #B4ACA4
@@ -61,6 +62,7 @@ The colors are generated from the logo and website of Tree Pittsburgh. The backg
 |Water | Geometry | Color: Geyser (#CCD9DB) |
 
 # Screen shots of base map
+
 ![screenshot1](https://user-images.githubusercontent.com/128320071/227804921-b26ece95-090b-4eb1-959f-4c9a085489ae.png)
 ![screenshot2](https://user-images.githubusercontent.com/128320071/227816911-129332f3-0f17-4824-932d-1add0caf8f7c.png)
 ![screenshot3](https://user-images.githubusercontent.com/128320071/227816922-3ee3ea31-8020-4e46-aa4b-e0cc34f055e0.png)
