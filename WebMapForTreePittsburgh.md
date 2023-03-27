@@ -45,6 +45,7 @@ Santa Fe   #B26B5B
 The colors are generated from the logo and website of Tree Pittsburgh. The background color is ecru white. The main color is green for showing the parks and green areas within the neighborhood. The cloudy color is generated from the brown trunk, which is used to represent the transportation system on the map. The red color is used to highlight public spaces such as schools and institutions. The blue is originated from the website to represent water in the water.
 
 # Lookup table
+
 | Feature type | Element type | Stylers |
 | ---------------| --------------- | --------------- |
 |Land parcel | Geometry | Color: Ecru White (#FAFAF1) |
