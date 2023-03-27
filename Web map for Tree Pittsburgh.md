@@ -6,7 +6,7 @@ The Tree Pittsburgh works to increase the number and diversity of trees, educate
 
 # Proposal and work plan 
 
-Our team has the skills and knowledge required to successfully complete this project within the agreed timeframe and budget. We estimate that completing the following tasks will require 9 hours of work: 
+Our team has the skills and knowledge required to successfully complete this project within the agreed timeframe and budget. We estimate that completing the following tasks will require **9 hours** of work: 
 
 | Task1 | Develop a map that matches the overall look of the Tree Pittsburgh website | Time: 5h |
 | ---------------| --------------- | --------------- |
@@ -24,7 +24,7 @@ Our team has the skills and knowledge required to successfully complete this pro
  
 
 # Price and final deliverables
-For the final deliverable, the team will embed the redesigned base map into the existing website, and provide instructions on how to use them effectively. The overall work is 9 hours in total. Based on the $100 per hour cost and estimated number of hours, the proposal requires a total cost of $ 900 for completing the web page map redesign. This will ensure that Tree Pittsburgh has a modern, user-friendly website that effectively communicates its mission and encourages donations.
+For the final deliverable, the team will **embed the redesigned base map into the existing website, and provide instructions on how to use them effectively**. The overall work is **9 hours** in total. Based on the $100 per hour cost and estimated number of hours, the proposal requires **a total cost of $ 900** for completing the web page map redesign. This will ensure that Tree Pittsburgh has a modern, user-friendly website that effectively communicates its mission and encourages donations.
 
 
 # Color Palette
